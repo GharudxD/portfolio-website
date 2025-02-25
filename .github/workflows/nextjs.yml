@@ -3,7 +3,7 @@ name: Deploy Next.js to GitHub Pages
 on:
   push:
     branches:
-      - main  # Change this if using a different branch
+      - main  # Adjust if you're using a different default branch
 
 permissions:
   contents: read
@@ -31,9 +31,9 @@ jobs:
         run: npm run build && npm run export
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2
+        uses: actions/upload-pages-artifact@v4  # Updated to v4
         with:
-          path: ./out  # Make sure Next.js exports files here
+          path: ./out  # Ensure this matches your export output directory
 
   deploy:
     runs-on: ubuntu-latest
