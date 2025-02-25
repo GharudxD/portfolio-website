@@ -29,7 +29,7 @@ export const workExperiences: WorkExperience[] = [
       "pipeline that increase 25% detection with 97% recall in FastAPI."
     ],
     skills: [],
-    logo: "/logos/ae.jpeg"
+    logo: "/portfolio-website/logos/ae.jpeg"
   },
   {
     company: "AGS Health",
@@ -54,6 +54,6 @@ export const workExperiences: WorkExperience[] = [
       "Developed solutions for extracting data from table structures in PDFs, scanned images, and digital formats."
     ],
     skills: [],
-    logo: "/logos/ags.png"
+    logo: "/portfolio-website/logos/ags.png"
   },
 ];
