@@ -1,2 +1,2 @@
 ## Portfoli-Website
-https://gharudxd.github.io/portfolio-website/
+https://vinitshah101.github.io/portfolio-website/
