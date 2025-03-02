@@ -46,7 +46,7 @@ const Blog: React.FC = () => {
         transition={{ duration: 0.5, delay: 0.3 }}
       >
         <motion.a 
-          href="https://medium.com/@gharudxd" 
+          href="https://medium.com/@vinitshah101" 
           target="_blank" 
           rel="noopener noreferrer"
           className="px-6 py-3 inset-0 rounded-xl border-2 border-primary background-primary text-primary font-medium text-lg hover:bg-primary hover:text-background transition-all duration-300"

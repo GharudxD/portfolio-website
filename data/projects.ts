@@ -23,7 +23,7 @@ export const projects: Project[] = [
   description: "Decode Morse code using hand gestures with OpenCV and MediaPipe.",
   icon: FaDotCircle,
   technologies: ["CV", "Morse code", "Python", "OpenCV"],
-  githubLink: "https://github.com/GharudxD/morse-code-decoder",
+  githubLink: "https://github.com/vinitshah101/morse-code-decoder",
   skills: [
     {name: "Frontend Development"},
     { name: "UI/UX Design"},
@@ -37,7 +37,7 @@ export const projects: Project[] = [
   description: "Streamlit-based stock market prediction web app using a CNN-LSTM model, achieving 56% accuracy on real-time data.",
   icon: FaChartLine,
   technologies: ["Python", "Pandas", "Streamlit", "CNN","LSTM"],
-  githubLink: "https://gharudxd-stock-market-intraday-prediction-main-163pm6.streamlit.app/",
+  githubLink: "https://vinitshah101-stock-market-intraday-prediction-main-163pm6.streamlit.app/",
   skills: [
     { name: "Web Scraping"},
     { name: "Data Analysis"},
@@ -52,7 +52,7 @@ export const projects: Project[] = [
   description: "Recognize various entities like name to address, ship to address, total amount etc.",
   icon: FaMoneyBill,
   technologies: ["Python", "Flask", "NER", "OCR"],
-  githubLink: "https://github.com/GharudxD/invoice-NER",
+  githubLink: "https://github.com/vinitshah101/invoice-NER",
   skills: [
     { name: "API Integration"},
     { name: "Asynchronous Programming"},
