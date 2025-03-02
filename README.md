@@ -1,2 +1,2 @@
 ## Portfoli-Website
-https://vinitshah101.github.io/portfolio-website/
+vinitshah.is-a.dev
