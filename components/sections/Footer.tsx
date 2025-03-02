@@ -11,7 +11,7 @@ const Footer: React.FC = () => {
   const socialLinks = [
     { icon: FaGithub, href: 'https://github.com/krishnavalliappan' },
     { icon: FaLinkedin, href: 'https://www.linkedin.com/in/krishnavalliappan/' },
-    { icon: FaEnvelope, href: 'mailto:vinitshahofficial@gmail.com' },
+    { icon: FaEnvelope, href: 'mailto:vinitshah10100@gmail.com' },
   ];
 
   return (
