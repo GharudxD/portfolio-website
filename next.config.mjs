@@ -6,3 +6,5 @@ const nextConfig = {
     basePath: "", // or remove this property
     assetPrefix: "", // or remove this property
   };  
+
+export default nextConfig;
